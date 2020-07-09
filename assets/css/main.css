@@ -5,10 +5,9 @@ body{
 .container{
   padding-left: 20px;
   padding-right: 20px;
-  min-width: 800px;
-  max-width: 950px;
   margin-right: auto;
-  margin-left: auto
+  margin-left: auto;
+  width: 1000px
 }
 .logo-image { max-width:75%; height:auto; overflow:hidden;}
 
