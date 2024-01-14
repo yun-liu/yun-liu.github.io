@@ -33,6 +33,10 @@ body {
   font-size: 14px;
 }
 
+div {
+  white-space: pre;
+}
+
 #layout-menu {
 	background: #f6f6f6;
 	border: 1px solid #dddddd;
