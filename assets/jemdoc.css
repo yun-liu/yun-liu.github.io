@@ -2,7 +2,7 @@
 
 /* cyrillic */
 @font-face {
-  font-family: 'Georgia';
+  font-family: 'CustomGeorgia';
   font-style: normal;
   font-weight: 400;
   src: url('./Georgia_Cyrillic.woff2') format('woff2');
@@ -10,7 +10,7 @@
 }
 /* greek */
 @font-face {
-  font-family: 'Georgia';
+  font-family: 'CustomGeorgia';
   font-style: normal;
   font-weight: 400;
   src: url('./Georgia_Greek.woff2') format('woff2');
@@ -18,7 +18,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'Georgia';
+  font-family: 'CustomGeorgia';
   font-style: normal;
   font-weight: 400;
   src: url('./Georgia_Latin-ext.woff2') format('woff2');
@@ -26,7 +26,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'Georgia';
+  font-family: 'CustomGeorgia';
   font-style: normal;
   font-weight: 400;
   src: url('./Georgia_Latin.woff2') format('woff2');
@@ -44,7 +44,7 @@ html {
 }
 
 body {
-  font-family: Georgia, serif;
+  font-family: CustomGeorgia, serif;
   color: #000;
   background-color: #ffffff;
   text-align:left; /* for IE */
