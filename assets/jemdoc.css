@@ -34,7 +34,7 @@ body {
 }
 
 div {
-  white-space: pre;
+  white-space: nowrap;
 }
 
 #layout-menu {
