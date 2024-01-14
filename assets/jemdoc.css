@@ -200,7 +200,7 @@ div#footer a {
 }
 
 div#footer-text {
-  float: left;
+  /*float: left;*/
   padding-bottom: 0.5em;
 }
 
