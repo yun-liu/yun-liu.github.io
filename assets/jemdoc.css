@@ -60,6 +60,14 @@ body {
   font-size: 1.0em;
 }
 
+@media only screen and (max-width: 1300px) {
+  body {
+    width: 100%;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+  }
+}
+
 #layout-menu {
   background: #f6f6f6;
   border: 1px solid #dddddd;
