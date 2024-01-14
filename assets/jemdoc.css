@@ -25,7 +25,6 @@ body {
   padding-bottom: 2em;
   max-width: 60em;
   font-size: 1.0em;
-  overflow-x: auto;
 }
 
 html, body {
@@ -38,7 +37,6 @@ html, body {
   padding-top: 0.5em;
   padding-bottom: 2em;
   width: 60em;
-  overflow-x: auto;
 }
 
 #layout-menu {
