@@ -100,8 +100,8 @@ div.menu-category {
 }
 
 div.menu-item {
-  padding-left: 2em;
-  text-indent: -2em;
+  padding-left: 1em;
+  text-indent: -1em;
 }
 
 div#toptitle {
@@ -204,7 +204,7 @@ dt {
 }
 
 dl {
-  margin-left: 2.5em;
+  margin-left: 1.25em;
 }
 
 dd {
