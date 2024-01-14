@@ -37,7 +37,7 @@ html, body {
   padding-right: 3em;
   padding-top: 0.5em;
   padding-bottom: 2em;
-  max-width: 75em;
+  width: 75em;
   overflow-x: auto;
 }
 
