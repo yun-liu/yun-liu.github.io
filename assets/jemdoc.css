@@ -23,8 +23,8 @@ body {
   padding-right: 3em;
   padding-top: 0.5em;
   padding-bottom: 2em;
-  max-width: 75em;
-  font-size: 0.8em;
+  max-width: 60em;
+  font-size: 1.0em;
   overflow-x: auto;
 }
 
@@ -37,7 +37,7 @@ html, body {
   padding-right: 3em;
   padding-top: 0.5em;
   padding-bottom: 2em;
-  width: 75em;
+  width: 60em;
   overflow-x: auto;
 }
 
@@ -47,7 +47,7 @@ html, body {
   padding-top: 0.5em;
   padding-left: 0.5em;
   padding-right: 0.5em;
-  font-size: 0.8em;
+  font-size: 1.0em;
   width: auto;
   white-space: nowrap;
   text-align: left;
@@ -113,8 +113,8 @@ div.menu-category {
 }
 
 div.menu-item {
-  padding-left: 1em;
-  text-indent: -1em;
+  padding-left: 2em;
+  text-indent: -2em;
 }
 
 div#toptitle {
@@ -177,6 +177,7 @@ p {
   margin-bottom: 0.8em;
   padding: 0;
   line-height: 1.3;
+  font-size: 0.8em;
 }
 
 pre {
@@ -189,10 +190,10 @@ div {
 }
 
 div#footer {
-  font-size: small;
+  font-size: 0.8em;
   border-top: 1px solid #c0c0c0;
   padding-top: 0.1em;
-  margin-top: 4.0em;
+  margin-top: 2.0em;
   color: #c0c0c0;
 }
 
@@ -217,7 +218,7 @@ dt {
 }
 
 dl {
-  margin-left: 1.25em;
+  margin-left: 2.5em;
 }
 
 dd {
