@@ -34,25 +34,25 @@
 }
 
 @font-face {
-  font-family: 'Liberation Serif';
+  font-family: 'MyLiberation Serif';
   font-style: normal;
   font-weight: 400;
   src: url('./LiberationSerif-Regular.ttf') format('truetype');
 }
 @font-face {
-  font-family: 'Liberation Serif';
+  font-family: 'MyLiberation Serif';
   font-style: normal;
   font-weight: 700;
   src: url('./LiberationSerif-Bold.ttf') format('truetype');
 }
 @font-face {
-  font-family: 'Liberation Serif';
+  font-family: 'MyLiberation Serif';
   font-style: italic;
   font-weight: 400;
   src: url('./LiberationSerif-Italic.ttf') format('truetype');
 }
 @font-face {
-  font-family: 'Liberation Serif';
+  font-family: 'MyLiberation Serif';
   font-style: italic;
   font-weight: 700;
   src: url('./LiberationSerif-BoldItalic.ttf') format('truetype');
