@@ -54,9 +54,10 @@ body {
 
 @media only screen and (max-width: 1300px) {
   body {
-    width: auto;
     padding-left: 1.5em;
     padding-right: 1.5em;
+    max-width: 100%;
+    font-size: calc(100vw * 0.95 / 60);
   }
 }
 
