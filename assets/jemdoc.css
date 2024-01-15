@@ -1,28 +1,32 @@
 /* Default css file for jemdoc. */
 
 @font-face {
-  font-family: 'Liberation Serif';
+  font-family: 'Custom Liberation Serif';
   font-style: normal;
   font-weight: 400;
   src: url('./LiberationSerif-Regular.ttf') format('truetype');
+  font-display: swap;
 }
 @font-face {
-  font-family: 'Liberation Serif';
+  font-family: 'Custom Liberation Serif';
   font-style: normal;
   font-weight: 700;
   src: url('./LiberationSerif-Bold.ttf') format('truetype');
+  font-display: swap;
 }
 @font-face {
-  font-family: 'Liberation Serif';
+  font-family: 'Custom Liberation Serif';
   font-style: italic;
   font-weight: 400;
   src: url('./LiberationSerif-Italic.ttf') format('truetype');
+  font-display: swap;
 }
 @font-face {
-  font-family: 'Liberation Serif';
+  font-family: 'Custom Liberation Serif';
   font-style: italic;
   font-weight: 700;
   src: url('./LiberationSerif-BoldItalic.ttf') format('truetype');
+  font-display: swap;
 }
 
 table#tlayout {
@@ -36,7 +40,7 @@ html {
 }
 
 body {
-  font-family: 'Liberation Serif';
+  font-family: 'Custom Liberation Serif', 'Liberation Serif';
   color: #000;
   background-color: #ffffff;
   text-align: left; /* for IE */
