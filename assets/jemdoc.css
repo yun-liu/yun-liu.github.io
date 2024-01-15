@@ -44,7 +44,7 @@ html {
 }
 
 body {
-  font-family: CustomGeorgia, serif;
+  font-family: 'CustomGeorgia' !important;
   color: #000;
   background-color: #ffffff;
   text-align:left; /* for IE */
